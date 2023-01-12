@@ -1,6 +1,11 @@
 
 /* Your CSS Code here. */
-main.accio#job{
+main.accio{
+	width: 150px;
+	height: 150px;
+	background-color: balck;
+}
+main#job{
 	width: 150px;
 	height: 150px;
 	background-color: balck;
